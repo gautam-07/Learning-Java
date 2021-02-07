@@ -2,7 +2,7 @@
 
 
 <pre>
-<h1>Java Learning</h1>
+<h1 align="center">Java Learning</h1>
 In this repository I am sharing my JAVA learning journey. As I am learning things by myself. 
 So this is basically to look back at my journey of learning.
 

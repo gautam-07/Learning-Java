@@ -9,5 +9,7 @@ So this is basically to look back at my journey of learning.
 <h2 align="center">Journey</h2>
 Day 1: JAVA History and Variables
 Day 2: JAVA Taking User Input
+Day 3: JAVA Operators and Expressions
+Day 4: JAVA String Methods
 
 </pre>
